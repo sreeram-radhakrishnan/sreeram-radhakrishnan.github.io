@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: rgb(240, 237, 237);
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
@@ -2224,6 +2224,10 @@ input, select, textarea {
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
 					color: inherit;
+					background-image: url('_DAS9221-min.png');
+  					background-repeat: no-repeat;
+					background-attachment: fixed;  
+					background-size: cover;
 				}
 
 				#main > section.dark strong {
